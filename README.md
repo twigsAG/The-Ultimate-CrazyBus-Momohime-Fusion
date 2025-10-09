@@ -1,4 +1,4 @@
-# The-Ultimate-CrazyBus-Momohime-Fusion-
+# The Ultimate CrazyBus (Momohime Fusion ver. 1.3.x)
 Clickteam Fusion 2.5 build of the best in Venezuelan bus simulation!
 
 Check the itch.io page for more info! (https://atreyugilbert.itch.io/the-ultimate-crazybus)
