@@ -1,2 +1,5 @@
-To add any custom songs to the Radio, you have to put an .ogg file of your choice and rename it 'CustomSong#.ogg' ('#' is a placeholder for an actual number)
-Up to 15 songs can be added to the in-game radio. If the music you want isn't an .ogg file than you will have to convert it as such.
+To add any custom songs to the Radio,
+you will have to put an .ogg file of your choice and rename it 'CustomSong#.ogg' 
+('#' is a placeholder for an actual number)
+Up to 15 songs can be added to the in-game radio. 
+If the music you want isn't an .ogg file than you will have to convert it as such.
