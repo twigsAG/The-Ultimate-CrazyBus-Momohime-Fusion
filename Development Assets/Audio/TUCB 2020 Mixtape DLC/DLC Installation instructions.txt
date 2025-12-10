@@ -1,0 +1,2 @@
+To install this to The Ultimate CrazyBus, go into the Data folder and copy the '2020 Mixtape' folder inside it.
+The game should be able to automatically detect it, so long as it's named that.
