@@ -1,7 +1,8 @@
 [ATBK RADIO SYSTEM]
 To add any custom songs to the Radio,
 you will have to put a supported audio file of your choice here.
-(Be it an .mp3, .ogg, .wav, etc etc.)
+(Be it an .mp3, .ogg, .wav, etc etc.) [.OGG IS RECOMMENDED BUT NOT PREFERRED]
+
 Any number of songs can be added to the in-game radio.
 If the music you want isn't a supported file than you will have to convert it as such.
 
