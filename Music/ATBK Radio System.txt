@@ -8,4 +8,4 @@ If the music you want isn't a supported file than you will have to convert it as
 
 IMPORTANT NOTICE:
 The game only supports English text characters, so please rename any song with unique language characters.
-(i.e. 死亡金属放屁森林 => Death Metal Fart Forest)
+(i.e. 死亡金属放屁森林.ogg => Death Metal Fart Forest.ogg)
